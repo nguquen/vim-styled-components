@@ -1,1 +1,1 @@
-runtime! indent/javascript.vim
+source <sfile>:h/javascript.vim
